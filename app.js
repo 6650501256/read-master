@@ -4639,7 +4639,7 @@ app.showSidebar();
 
           image2: {
             name: "image2",
-            url: "images/474854892_1955068261685715_2009290267501924134_n.png",
+            url: "images/Prototype APP.gif68261685715_2009290267501924134_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
