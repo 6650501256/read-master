@@ -4250,7 +4250,7 @@ app.showView('home');
           },
           image4: {
             name: "image4",
-            url: "app/images/474632865_3775707716075585_5407541317368142080_n.png",
+            url: "./images/474632865_3775707716075585_5407541317368142080_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
