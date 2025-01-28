@@ -4174,7 +4174,7 @@ const start = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "app/images/474387906_1607266189924752_6586373827279564599_n.png",
+            url: "./images/474387906_1607266189924752_6586373827279564599_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
