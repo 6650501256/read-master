@@ -5364,7 +5364,7 @@ const coaching2 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "..\PIC\467482220_1762090844568276_7367345469732418851_n.jpg",
+            url: "images/467482220_1762090844568276_7367345469732418851_n.jpg",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -16331,7 +16331,7 @@ const taskbot12 = {
 
           image2: {
             name: "image2",
-            url: "..\PIC\472205107_979771870740775_2820368697562667777_n.png",
+            url: "images/472205107_979771870740775_2820368697562667777_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18864,7 +18864,7 @@ const taskQ5 = {
           app: this.$root,
           image1: {
             name: "image1",
-            url: "..\PIC\474952621_591456130353917_6115518564765359487_n.png",
+            url: "images/474952621_591456130353917_6115518564765359487_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18885,7 +18885,7 @@ const taskQ5 = {
           },
           image2: {
             name: "image2",
-            url: "..\PIC\472359031_2266156700416672_6719885261184674651_n.png",
+            url: "images/472359031_2266156700416672_6719885261184674651_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
@@ -18927,7 +18927,7 @@ app.showView('taskbot51');
 
           image5: {
             name: "image5",
-            url: "..\PIC\474738492_965941294979918_8326998411994216454_n.png",
+            url: "images/474738492_965941294979918_8326998411994216454_n.png",
             classes: "",
             description: "",
             title: " Created with Unregistered DecSoft App Builder",
